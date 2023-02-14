@@ -1,0 +1,17 @@
+C:\Users\imaij\source\repos\ECommerce\ECommerce_Business\bin\Debug\net7.0\ECommerce_Business.deps.json
+C:\Users\imaij\source\repos\ECommerce\ECommerce_Business\bin\Debug\net7.0\ECommerce_Business.dll
+C:\Users\imaij\source\repos\ECommerce\ECommerce_Business\bin\Debug\net7.0\ECommerce_Business.pdb
+C:\Users\imaij\source\repos\ECommerce\ECommerce_Business\obj\Debug\net7.0\ECommerce_Business.csproj.AssemblyReference.cache
+C:\Users\imaij\source\repos\ECommerce\ECommerce_Business\obj\Debug\net7.0\ECommerce_Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imaij\source\repos\ECommerce\ECommerce_Business\obj\Debug\net7.0\ECommerce_Business.AssemblyInfoInputs.cache
+C:\Users\imaij\source\repos\ECommerce\ECommerce_Business\obj\Debug\net7.0\ECommerce_Business.AssemblyInfo.cs
+C:\Users\imaij\source\repos\ECommerce\ECommerce_Business\obj\Debug\net7.0\ECommerce_Business.csproj.CoreCompileInputs.cache
+C:\Users\imaij\source\repos\ECommerce\ECommerce_Business\obj\Debug\net7.0\ECommerce_Business.dll
+C:\Users\imaij\source\repos\ECommerce\ECommerce_Business\obj\Debug\net7.0\refint\ECommerce_Business.dll
+C:\Users\imaij\source\repos\ECommerce\ECommerce_Business\obj\Debug\net7.0\ECommerce_Business.pdb
+C:\Users\imaij\source\repos\ECommerce\ECommerce_Business\obj\Debug\net7.0\ref\ECommerce_Business.dll
+C:\Users\imaij\source\repos\ECommerce\ECommerce_Business\bin\Debug\net7.0\Ecommerce_Domain.dll
+C:\Users\imaij\source\repos\ECommerce\ECommerce_Business\bin\Debug\net7.0\Ecommerce_Domain.pdb
+C:\Users\imaij\source\repos\ECommerce\ECommerce_Business\obj\Debug\net7.0\ECommerce_Business.csproj.CopyComplete
+C:\Users\imaij\source\repos\ECommerce\ECommerce_Business\bin\Debug\net7.0\Ecommerce_Model.dll
+C:\Users\imaij\source\repos\ECommerce\ECommerce_Business\bin\Debug\net7.0\Ecommerce_Model.pdb
